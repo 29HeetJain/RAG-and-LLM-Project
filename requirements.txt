@@ -1,12 +1,5 @@
-langchain
-ipykernel
-langchain_community
-pypdf
-langchain-text-splitters
-sentence_transformers
-langchain_huggingface
-faiss-cpu
-streamlit
-langchain-ollama
-streamlit
-nltk
+streamlit>=1.35
+sentence-transformers>=2.7
+pypdf>=4.0
+numpy>=1.26
+requests>=2.31
